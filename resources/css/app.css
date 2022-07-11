@@ -1,0 +1,84 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: lightsteelblue;
+}
+
+.form-box {
+    border-radius: 1rem;
+    background-color: #f5f5f5;
+}
+
+.name-button{
+    text-transform: capitalize;
+}
+
+.label{
+    text-align: left;
+}
+
+.myError{
+    font-size: 12px;
+    margin: 12px 0px 12px 0px;
+}
+
+.footer h2{
+    color:#fff;
+}
+
+.cCard{
+    border: none;
+    overflow: hidden;
+}
+
+.card-header-color {
+    font-weight:bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.card-body-color {
+    background-color: #242F9B;
+    border-radius: 5px;
+}
+
+.card-body-custom{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+path.departamentos_SV {
+    fill: #424242;
+    stroke: #ffffff;
+    transition: all 0.7s;
+}
+
+path.departamentos_SV:hover {
+    fill: #6e6e6e;
+    stroke: #0984e3;
+    transition: all 0.7s;
+}
+
+nav{
+    z-index: 1;
+}
+
+.mapMaxSize{
+    max-width: 800px;
+}
+
+ul{
+    padding: 0px;
+}
+
+.cRow{
+    list-style: none;
+    margin: 0px;
+}
+
+.depCard{
+    width: 50%;
+}
+
+.cardC{
+    margin-bottom: 350px;
+}
